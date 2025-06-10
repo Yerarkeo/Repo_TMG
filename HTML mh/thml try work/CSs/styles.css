@@ -1,0 +1,21 @@
+h1{
+    color: rgb(142, 241, 12);
+}
+p{
+    color: rgb(131, 14, 241);
+}
+.fruit{
+    color: rgb(235, 24, 129);
+}
+.animal{
+    color: rgb(241, 138, 13);
+}
+.food{
+    color: blue;
+}
+p{
+    size: 20cm;
+}
+h1{
+    font-size: 50px;
+}
