@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    color: rgb(235, 43, 43);
+
+}
+ul{
+    font-family: fantasy;
+    background-color: hwb(81 7% 1%);
+    color: rgb(16, 16, 148);
+}
+ul q{
+    color: rgb(26, 26, 224);
+}
